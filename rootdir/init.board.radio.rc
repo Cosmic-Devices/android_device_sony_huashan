@@ -1,4 +1,6 @@
 on boot
+    rm /dev/diag
+
     # Create QMUX deamon socket area
     mkdir /dev/socket/qmux_radio 0770 radio radio
     chmod 2770 /dev/socket/qmux_radio
