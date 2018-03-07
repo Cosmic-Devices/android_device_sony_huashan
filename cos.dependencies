@@ -10,25 +10,31 @@
     "repository":  "LineageOS/android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
     "branch":      "staging/lineage-15.1"
-  }, 
+  },
   {
     "remote":      "github",
     "repository":  "LineageOS/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
     "branch":      "staging/lineage-15.1"
-  }, 
+  },
   {
     "remote":      "github",
     "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch":      "staging/lineage-15.1"
-  }, 
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "branch":      "staging/lineage-15.1"
+  },
   {
     "remote":      "github",
     "repository":  "AdrianDC/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "branch":      "lineage-15.1"
-  }, 
+  },
   {
     "remote":      "github",
     "repository":  "AdrianDC/android_kernel_sony_msm8960t",
