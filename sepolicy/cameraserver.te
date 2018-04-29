@@ -1,0 +1,2 @@
+#============= cameraserver ==============
+allow cameraserver system_file:file { execmod };
